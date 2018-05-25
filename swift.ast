@@ -1,0 +1,123 @@
+<<<<<<< HEAD
+Node 416261898
+		---assign		a     Node 416261897
+		---expression		Node416261897 operation + on Node416261895 Node416261896 ---expression Node416261895 operation * on Node416261894 5 ---expression Node416261894 operation * on 2 3 ---expression Node416261896 operation * on 6 7
+Node 416261899
+		---assign		b     45
+Node 416261901
+		---assign		c     Node 416261900
+		---expression		Node416261900 operation / on 3 4  
+Node 416261903
+		---assign		d     Node 416261902
+		---expression		Node416261902 operation + on 3 4  
+Node 416261904
+		---assign		d     100
+Node 1490656234
+		---for-loop
+		For statement i 1 2
+Beginning of For Loop
+Node 416261905
+		---assign		l     2
+Node 416261907
+		---assign		x     Node 416261906
+		---expression		Node416261906 operation + on l 1  
+End of For statement
+Node 3955768942
+=======
+Node 1040213117
+		---assign		a     Node 1040213116
+		---expression		Node1040213116 operation + on Node1040213114 Node1040213115 ---expression Node1040213114 operation * on Node1040213113 5 ---expression Node1040213113 operation * on 2 3 ---expression Node1040213115 operation * on 6 7
+Node 1040213118
+		---assign		b     45
+Node 1040213120
+		---assign		c     Node 1040213119
+		---expression		Node1040213119 operation / on 3 4  
+Node 1040213122
+		---assign		d     Node 1040213121
+		---expression		Node1040213121 operation + on 4 3  
+Node 1040213123
+		---assign		d     100
+Node 2003643873
+		---for-loop
+		For statement i 1 2
+Beginning of For Loop
+Node 1040213124
+		---assign		l     2
+Node 1040213126
+		---assign		x     Node 1040213125
+		---expression		Node1040213125 operation + on l 1  
+End of For statement
+Node 2566177086
+>>>>>>> 9f85ee0ae7e077f7e07a61f899cec8c1d94de5a3
+		---for-loop
+		For statement j 1 100
+Beginning of For Loop
+<<<<<<< HEAD
+Node 416261908
+		---assign		f     2
+Node 416261910
+		---assign		g     Node 416261909
+		---expression		Node416261909 operation + on f 1  
+Node 416261912
+		---assign		lm     Node 416261911
+		---expression		Node416261911 operation + on a b  
+End of For statement
+Node 416261920
+=======
+Node 1040213127
+		---assign		f     2
+Node 1040213129
+		---assign		g     Node 1040213128
+		---expression		Node1040213128 operation + on f 1  
+End of For statement
+Node 1040213137
+>>>>>>> 9f85ee0ae7e077f7e07a61f899cec8c1d94de5a3
+		---function-defination
+		 function z
+Beginning of Function
+<<<<<<< HEAD
+Node 416261913
+		---assign		a1     2
+Node 416261914
+		---assign		a2     a1
+Node 416261916
+		---assign		a3     Node 416261915
+		---expression		Node416261915 operation + on a1 a2  
+Node 3683150548
+		---for-loop
+		For statement pp 1 2
+Beginning of For Loop
+Node 416261917
+		---assign		aa     2
+Node 416261919
+		---assign		bb     Node 416261918
+		---expression		Node416261918 operation + on l 1  
+End of For statement
+End of Function
+Node 416261921
+		---function-call		call z - Arguments: c & d
+=======
+Node 1040213130
+		---assign		a1     2
+Node 1040213131
+		---assign		a2     a1
+Node 1040213133
+		---assign		a3     Node 1040213132
+		---expression		Node1040213132 operation + on a1 a2  
+Node 724378407
+		---for-loop
+		For statement pp 1 2
+Beginning of For Loop
+Node 1040213134
+		---assign		aa     2
+Node 1040213136
+		---assign		bb     Node 1040213135
+		---expression		Node1040213135 operation + on l 1  
+End of For statement
+End of Function
+Node 1040213138
+		---function-call		call a - Arguments: rr & tt & lp
+Node 1040213139
+		---function-call		call b - Arguments: lll
+>>>>>>> 9f85ee0ae7e077f7e07a61f899cec8c1d94de5a3
+

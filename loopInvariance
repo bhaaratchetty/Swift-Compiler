@@ -1,0 +1,31 @@
+a = 72
+b = 45
+c = 0.75
+d = 7
+d = 100
+i = 1
+L0:
+l = 2
+x = 3
+L1:
+f = 2
+g = 3
+lm = 117
+j = 2
+f = 2
+g = 3
+lm = 117
+j = 2
+if j <= 50 goto L1
+func begin z
+a2 = 2
+a3 = 4
+pp = 1
+L2:
+aa = 2
+bb = 3
+pp = 2
+func end
+param c
+param d
+call z , 2
